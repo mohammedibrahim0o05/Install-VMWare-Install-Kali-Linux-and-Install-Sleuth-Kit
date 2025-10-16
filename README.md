@@ -1,6 +1,8 @@
 # Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
-### Name:
-### Reg No:
+
+### Name: MOHAMMED IBRAHIM MN 
+### Reg No: 212223100034
+
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
@@ -39,20 +41,17 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 4. Verify installation by running:
    ```sh
    fls -version
-   
+
 ## PROGRAM:
 
 ## OUTPUT:
 **VIRTUAL BOX:**
-
-
+![kali 1](https://github.com/user-attachments/assets/dcb91a2b-c783-498a-be31-fb953430a38d)
 **KALI LINUX:**
-
-
+![image](https://github.com/user-attachments/assets/e678fe11-ad1b-46b6-b7f1-7c8c659d04c3)
 
 **SLEUTH-KIT:**
-
-
+![dfdi sleuth kit2](https://github.com/user-attachments/assets/1644ac29-a76a-4e74-b3c5-7b8874824322)
 
 ## RESULT:
 The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully.
